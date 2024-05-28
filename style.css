@@ -1,0 +1,131 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url(img/Screenshot\ 2024-05-07\ 132244.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  padding: 0;
+}
+
+#d1{
+  background-image: url(img/d12.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size:contain;
+  width: 50%;
+  height:762px;
+  position: absolute;
+  left: 8%;
+  top: 5%;
+  border-radius: 10px;
+  z-index: 1;
+}
+
+#f1{
+  width: 99.7%;
+  margin-top:50px;
+  border: 1px solid #272727;
+  border-radius: 10px;
+  height: 80%;
+}
+
+#d2{
+  background-image: url(img/Screenshot\ 2024-05-09\ 093458.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  background-size:contain;
+  position: absolute;
+  right: 5%;
+  bottom: 7%;
+  width: 35%;
+  height: 50%;
+  border-radius: 5px;
+}
+
+#f2{
+  margin: auto;
+  margin-top: 15%;
+  width:83%;
+  height: 60%;
+  border: 2px solid #202020;
+}
+
+#d3{
+  width: 3%;
+  text-align: center;
+  div{
+    margin-top: 20px;
+    img{
+      width: 80%;
+    }
+  }
+}
+
+#d4{
+  position: absolute;
+  bottom: 20px;
+  width: 3%;
+  text-align: center;
+  div{
+    margin-top: 20px;
+    img{
+      margin-top: 3px;
+      width: 80%;
+    }
+  }
+}
+
+#i1{
+  background-color: #7777772f;
+  border-radius: 3px;
+  padding: 2px;
+  padding-top: 5px;
+  text-align: center;
+  margin: auto;
+  border-radius: 3px;
+}
+
+#cen{
+  margin: auto;
+  text-align: center;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  bottom: 215px;
+  a{
+    color: #EBCB2A;
+    margin-left: 15px;
+  }
+  a:hover{
+    text-decoration: none;
+    color: white;
+  }
+}
+
+#d5{
+  background-image:url(img/pascal.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 95.3%;
+  height: 97%;
+  border-radius:5px ;
+  position: absolute;
+  left: 2.1cm;
+  top: 0;
+}
+
+#f3{
+  width: 99.8%;
+  height: 89.7%;
+  margin-top: 3cm;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+hr{
+  margin-top: 20px;
+}
